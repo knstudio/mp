@@ -17,5 +17,6 @@ Route::get('/teste-mercadopago/{id}', function ($id) {
     /*echo '<pre>';
 print_r($mp);
 echo '</pre>';*/
+//mudança
 
 });
